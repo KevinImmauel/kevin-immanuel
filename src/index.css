@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #000;
+  color: #00ff00;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background: #00ff00;
+  height: 0.2rem;
+}
+
+input[type="range"]::-moz-range-track {
+  background: #00ff00;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -6px;
+  background-color: #00ff00;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 100%;    
+}

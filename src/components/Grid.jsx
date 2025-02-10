@@ -47,31 +47,12 @@ const Grid = () => {
       <div className="xl:row-span-6 xl:col-span-5 leading-tight">
         <TextArt />
       </div>
-      <div className="xl:row-span-1 xl:col-span-3 grid grid-cols-3 ">
-        <p>Web Developer</p>
-        <p>Computer Science Enthusiast</p>
-        <p>IoT Backend Developer</p>
-        <p>Freelancer</p>
-        <p>Student</p>
-        <p>Bass-head</p>
-      </div>
       <div className="xl:row-span-1 xl:col-span-3 flex flex-col justify-center">
         <p className="text-2xl">About Me</p>
         <p>
           A 19-year-old kid trying to survive keeping his love for computers
           alive.
         </p>
-      </div>
-      <div className="xl:row-span-2 xl:col-span-3 grid grid-cols-1 grid-rows-3">
-        <p className="row-span-1 text-2xl">Side Projects</p>
-        <div className="row-span-2 grid grid-cols-3 ">
-          <p>Web Developer</p>
-          <p>Computer Science Enthusiast</p>
-          <p>IoT Backend Developer</p>
-          <p>Freelancer</p>
-          <p>Student</p>
-          <p>Bass-head</p>
-        </div>
       </div>
       <div className="xl:row-span-2 xl:col-span-3 flex">
         <img className="h-[10rem] w-[10rem]" src="image.png" alt="im" />

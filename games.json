@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "title": "Disco Elysium",
+      "genre": "RPG",
+      "status": "completed",
+      "rating": 10,
+      "notes": "Changed how I think about RPGs.",
+      "poster": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg"
+    },
+    {
+      "title": "Outer Wilds",
+      "genre": "Exploration",
+      "status": "completed",
+      "rating": 10,
+      "notes": "Most emotional ending.",
+      "poster": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg"
+    },
+    {
+      "title": "Elden Ring",
+      "genre": "Action RPG",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Radahn festival survivor.",
+      "poster": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "genre": "RPG",
+      "status": "playing",
+      "rating": 9,
+      "notes": "Act 3. Astarion is carrying.",
+      "poster": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg"
+    }
+  ]
+}

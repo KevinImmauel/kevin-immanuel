@@ -37,7 +37,7 @@ def get_tmdb_poster(title, year=None):
     return None
 
 LETTERBOXD_USER = "kevinvcx"  # your Letterboxd username
-TMDB_API_KEY    = "e6c7d4fc2047b9c25b38bdf32cc6bb6f"  # set as GitHub secret
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 
 def get_tmdb_poster(title, year=None):
     if not TMDB_API_KEY:

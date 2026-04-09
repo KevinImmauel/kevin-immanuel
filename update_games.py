@@ -1,9 +1,10 @@
 import json
 import requests
 import time
+import os
 
 # --- CONFIG ---
-RAWG_API_KEY = "a81d0b1453384496aaed24e7a522b924" # Get one at rawg.io/apidocs
+RAWG_API_KEY = os.environ.get("RAWG_API_KEY") # Get one at rawg.io/apidocs
 
 # Your manually curated list (or load from an existing file)
 MY_GAMES = [

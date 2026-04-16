@@ -43,44 +43,44 @@
   ],
   "random_five_stars": [
     {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": null
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg"
+    },
+    {
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+    },
+    {
       "title": "Adventure Time",
       "year": 2007,
       "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
     },
     {
-      "title": "Velaiyilla Pattathari",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/fQ8JzXRf68xlzyquLn7TEe3S2Nh.jpg"
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
-    },
-    {
-      "title": "The Haunting of Hill House",
-      "year": 2018,
-      "poster": null
-    },
-    {
-      "title": "Sound of Metal",
+      "title": "John Wick: Chapter 3 – Parabellum",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
     },
     {
-      "title": "How to Train Your Dragon",
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+    },
+    {
+      "title": "The Social Network",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
-    },
-    {
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
-    },
-    {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
     }
   ]
 }

@@ -43,29 +43,34 @@
   ],
   "random_five_stars": [
     {
-      "title": "Incendies",
+      "title": "How to Train Your Dragon",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
-    },
-    {
-      "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-    },
-    {
-      "title": "The Sandman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
-    },
-    {
-      "title": "Velaiyilla Pattathari",
+      "title": "Race Gurram",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+    },
+    {
+      "title": "Baby Reindeer",
+      "year": 2024,
+      "poster": null
+    },
+    {
+      "title": "Cars",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
     },
     {
       "title": "Hereditary",
@@ -73,14 +78,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg"
     },
     {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
-    },
-    {
-      "title": "The Haunting of Hill House",
-      "year": 2018,
-      "poster": null
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
     }
   ]
 }

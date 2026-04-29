@@ -43,24 +43,14 @@
   ],
   "random_five_stars": [
     {
-      "title": "Fallen Angels",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
     },
     {
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
-    },
-    {
-      "title": "John Wick: Chapter 3 – Parabellum",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
-    },
-    {
-      "title": "Adventure Time",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": null
     },
     {
       "title": "The Sandman",
@@ -68,19 +58,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
     },
     {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-    },
-    {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
-    },
-    {
-      "title": "How to Train Your Dragon",
+      "title": "Incendies",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+    },
+    {
+      "title": "Cars",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
+    },
+    {
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
     }
   ]
 }

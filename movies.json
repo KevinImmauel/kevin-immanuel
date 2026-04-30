@@ -43,34 +43,19 @@
   ],
   "random_five_stars": [
     {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
-    },
-    {
-      "title": "Amadeus",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
-    },
-    {
-      "title": "Baby Reindeer",
-      "year": 2024,
-      "poster": null
-    },
-    {
       "title": "John Wick: Chapter 3 – Parabellum",
       "year": 2019,
       "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
     },
     {
-      "title": "Get Out",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
     },
     {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+      "title": "John Wick",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
     },
     {
       "title": "Cars 3",
@@ -78,9 +63,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     },
     {
-      "title": "Sound of Metal",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
     }
   ]
 }

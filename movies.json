@@ -48,19 +48,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg"
     },
     {
-      "title": "I Saw the Devil",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
     },
     {
-      "title": "Velaiyilla Pattathari",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "poster": null
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+    },
+    {
+      "title": "Race Gurram",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
-    },
-    {
-      "title": "Fallen Angels",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
     },
     {
       "title": "The Social Network",
@@ -68,19 +78,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
     },
     {
-      "title": "Amadeus",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
-    },
-    {
-      "title": "Ex Machina",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
-    },
-    {
-      "title": "Incendies",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+      "title": "Adventure Time",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
     }
   ]
 }

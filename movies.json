@@ -43,14 +43,24 @@
   ],
   "random_five_stars": [
     {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": null
     },
     {
-      "title": "Ford v Ferrari",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
     },
     {
       "title": "Velaiyilla Pattathari",
@@ -58,9 +68,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "poster": null
     },
     {
       "title": "The Wolf of Wall Street",
@@ -68,19 +78,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
     },
     {
-      "title": "Amadeus",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
-    },
-    {
-      "title": "Baby Reindeer",
-      "year": 2024,
-      "poster": null
-    },
-    {
-      "title": "The Sandman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
     }
   ]
 }

@@ -43,44 +43,44 @@
   ],
   "random_five_stars": [
     {
-      "title": "Baby Reindeer",
+      "title": "Dune: Part Two",
       "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+    },
+    {
+      "title": "Adventure Time",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
+    },
+    {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
       "poster": null
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "Cars 3",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     },
     {
       "title": "Spider-Man: Across the Spider-Verse",
       "year": 2023,
       "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-    },
-    {
-      "title": "Cars",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-    },
-    {
-      "title": "Sound of Metal",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
-    },
-    {
-      "title": "Ex Machina",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
-    },
-    {
-      "title": "Hereditary",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg"
     }
   ]
 }

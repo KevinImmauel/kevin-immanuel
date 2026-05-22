@@ -1,36 +1,196 @@
 {
   "games": [
     {
-      "title": "Disco Elysium",
-      "genre": "RPG",
+      "title": "Tomb Raider",
+      "genre": "Action-Adventure",
       "status": "completed",
-      "rating": 10,
-      "notes": "Changed how I think about RPGs.",
-      "poster": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg"
+      "rating": 8,
+      "notes": "Survivor timeline part 1.",
+      "poster": "https://placehold.co/400x600?text=Tomb+Raider"
     },
     {
-      "title": "Outer Wilds",
-      "genre": "Exploration",
+      "title": "Rise of the Tomb Raider",
+      "genre": "Action-Adventure",
       "status": "completed",
-      "rating": 10,
-      "notes": "Most emotional ending.",
-      "poster": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg"
+      "rating": 8,
+      "notes": "Survivor timeline part 2.",
+      "poster": "https://placehold.co/400x600?text=Rise+of+the+Tomb+Raider"
     },
     {
-      "title": "Elden Ring",
+      "title": "Shadow of the Tomb Raider",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 8,
+      "notes": "Survivor timeline part 3.",
+      "poster": "https://placehold.co/400x600?text=Shadow+of+the+Tomb+Raider"
+    },
+    {
+      "title": "Far Cry 3",
+      "genre": "FPS / Open World",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Did I ever tell you the definition of insanity?",
+      "poster": "https://placehold.co/400x600?text=Far+Cry+3"
+    },
+    {
+      "title": "Call of Duty 4: Modern Warfare",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Original 2007 release.",
+      "poster": "https://placehold.co/400x600?text=CoD4:+Modern+Warfare"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 2",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Original 2009 release.",
+      "poster": "https://placehold.co/400x600?text=CoD:+MW2"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 3",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 8,
+      "notes": "Original 2011 release.",
+      "poster": "https://placehold.co/400x600?text=CoD:+MW3"
+    },
+    {
+      "title": "Call of Duty: Black Ops",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 9,
+      "notes": "The numbers, Mason.",
+      "poster": "https://placehold.co/400x600?text=CoD:+Black+Ops"
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Peak multiplayer era.",
+      "poster": "https://placehold.co/400x600?text=CoD:+Black+Ops+II"
+    },
+    {
+      "title": "Call of Duty: Black Ops III",
+      "genre": "FPS",
+      "status": "completed",
+      "rating": 8,
+      "notes": "Great zombies mode.",
+      "poster": "https://placehold.co/400x600?text=CoD:+Black+Ops+III"
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Best web-swinging mechanics.",
+      "poster": "https://placehold.co/400x600?text=Marvel's+Spider-Man"
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 8,
+      "notes": "Great standalone expansion.",
+      "poster": "https://placehold.co/400x600?text=Spider-Man:+Miles+Morales"
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Batmobile is fun but overused.",
+      "poster": "https://placehold.co/400x600?text=Batman:+Arkham+Knight"
+    },
+    {
+      "title": "Alan Wake",
+      "genre": "Survival Horror",
+      "status": "completed",
+      "rating": 8,
+      "notes": "It's not a lake, it's an ocean.",
+      "poster": "https://placehold.co/400x600?text=Alan+Wake"
+    },
+    {
+      "title": "Control",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Ashtray maze was incredible.",
+      "poster": "https://placehold.co/400x600?text=Control"
+    },
+    {
+      "title": "God of War",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 10,
+      "notes": "Boy.",
+      "poster": "https://placehold.co/400x600?text=God+of+War"
+    },
+    {
+      "title": "God of War Ragnarök",
+      "genre": "Action-Adventure",
+      "status": "completed",
+      "rating": 10,
+      "notes": "Incredible conclusion to the Norse saga.",
+      "poster": "https://placehold.co/400x600?text=God+of+War+Ragnarok"
+    },
+    {
+      "title": "Dark Souls",
       "genre": "Action RPG",
-      "status": "completed",
-      "rating": 9,
-      "notes": "Radahn festival survivor.",
-      "poster": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg"
+      "status": "playing",
+      "rating": 0,
+      "notes": "Currently dying repeatedly.",
+      "poster": "https://placehold.co/400x600?text=Dark+Souls"
     },
     {
-      "title": "Baldur's Gate 3",
-      "genre": "RPG",
-      "status": "playing",
+      "title": "Forza Horizon 4",
+      "genre": "Racing",
+      "status": "completed",
       "rating": 9,
-      "notes": "Act 3. Astarion is carrying.",
-      "poster": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg"
+      "notes": "Beautiful UK map and seasons.",
+      "poster": "https://placehold.co/400x600?text=Forza+Horizon+4"
+    },
+    {
+      "title": "EA Sports FC 25",
+      "genre": "Sports",
+      "status": "playing",
+      "rating": 7,
+      "notes": "Standard football grind.",
+      "poster": "https://placehold.co/400x600?text=EA+Sports+FC+25"
+    },
+    {
+      "title": "Honkai: Star Rail",
+      "genre": "RPG / Gacha",
+      "status": "playing",
+      "rating": 8,
+      "notes": "Turn-based space train.",
+      "poster": "https://placehold.co/400x600?text=Honkai:+Star+Rail"
+    },
+    {
+      "title": "Valorant",
+      "genre": "Tactical Shooter",
+      "status": "playing",
+      "rating": 8,
+      "notes": "Clicking heads.",
+      "poster": "https://placehold.co/400x600?text=Valorant"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "genre": "Tactical Shooter",
+      "status": "playing",
+      "rating": 8,
+      "notes": "Rush B.",
+      "poster": "https://placehold.co/400x600?text=Counter-Strike+2"
+    },
+    {
+      "title": "Wuthering Waves",
+      "genre": "Action RPG / Gacha",
+      "status": "playing",
+      "rating": 8,
+      "notes": "Great combat mechanics.",
+      "poster": "https://placehold.co/400x600?text=Wuthering+Waves"
     }
   ]
 }

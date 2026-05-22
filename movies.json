@@ -43,9 +43,29 @@
   ],
   "random_five_stars": [
     {
-      "title": "Midnight Mass",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+    },
+    {
+      "title": "Marty Supreme",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+    },
+    {
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
+    },
+    {
+      "title": "Adventure Time",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
     },
     {
       "title": "Fallen Angels",
@@ -53,34 +73,14 @@
       "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
     },
     {
-      "title": "Race Gurram",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+      "title": "Cars 3",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     },
     {
-      "title": "Incendies",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
-    },
-    {
-      "title": "The Fall of the House of Usher",
-      "year": 2023,
-      "poster": null
-    },
-    {
-      "title": "The Batman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-    },
-    {
-      "title": "Velaiyilla Pattathari",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
     }
   ]
 }

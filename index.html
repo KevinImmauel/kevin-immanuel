@@ -12,6 +12,76 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet" />
   <style>
+    /* ══════════════════════════════════
+       LOADING SCREEN
+       ══════════════════════════════════ */
+    #loader {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: #000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Share Tech Mono', 'Courier New', monospace;
+      color: #c0c0c0;
+      transition: opacity 0.5s ease;
+    }
+
+    #loader.fade-out {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .loader-title {
+      font-size: 14px;
+      color: #606060;
+      margin-bottom: 20px;
+      letter-spacing: 2px;
+    }
+
+    .loader-bar-wrap {
+      width: 260px;
+      border: 1px solid #303030;
+      padding: 2px;
+      margin-bottom: 10px;
+    }
+
+    .loader-bar {
+      height: 6px;
+      background: #c0c0c0;
+      width: 0%;
+      transition: width 0.15s linear;
+    }
+
+    .loader-pct {
+      font-size: 11px;
+      color: #606060;
+      text-align: center;
+      width: 260px;
+      margin-bottom: 16px;
+    }
+
+    .loader-status {
+      font-size: 10px;
+      color: #404040;
+      height: 14px;
+      text-align: center;
+      width: 300px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    @keyframes loader-cursor {
+      50% { opacity: 0; }
+    }
+
+    .loader-cursor {
+      display: inline-block;
+      animation: loader-cursor 1s step-end infinite;
+    }
     *,
     *::before,
     *::after {
@@ -314,6 +384,8 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
       gap: 3px;
+      /* Isolate grid layout from the rest of the page */
+      contain: layout;
     }
 
     .img-cell {
@@ -322,10 +394,17 @@
       background: #080808;
       border: 1px solid var(--border);
       position: relative;
+      /* Paint isolation per cell — prevents repaint spreading to neighbours */
+      contain: strict;
     }
 
     .img-cell.sq {
       aspect-ratio: 1/1;
+    }
+
+    /* Games grid uses portrait 3:4 ratio for cover art */
+    .img-cell.game-cover {
+      aspect-ratio: 3/4;
     }
 
     .img-cell img {
@@ -333,12 +412,15 @@
       height: 100%;
       object-fit: cover;
       display: block;
-      filter: grayscale(30%);
-      transition: filter 0.2s;
+      /* Use opacity instead of filter — much cheaper, stays on compositor thread */
+      opacity: 0.7;
+      transition: opacity 0.2s;
     }
 
     .img-cell:hover img {
-      filter: grayscale(0%);
+      opacity: 1;
+      /* Only promote to own layer when actually hovered */
+      will-change: opacity;
     }
 
     .img-cell .ph {
@@ -358,13 +440,16 @@
       display: flex;
       align-items: flex-end;
       padding: 5px;
+      /* Use transform+opacity instead of opacity alone for compositor promotion */
       opacity: 0;
-      transition: opacity 0.2s;
+      transform: translateZ(0);
+      transition: opacity 0.18s;
       pointer-events: none;
     }
 
     .img-cell:hover .ov {
       opacity: 1;
+      will-change: opacity;
     }
 
     .ov-txt {
@@ -495,6 +580,16 @@
 </head>
 
 <body>
+
+  <!-- LOADING SCREEN -->
+  <div id="loader">
+    <div class="loader-title">C:\&gt; LOADING PORTFOLIO<span class="loader-cursor">_</span></div>
+    <div class="loader-bar-wrap">
+      <div class="loader-bar" id="loader-bar"></div>
+    </div>
+    <div class="loader-pct" id="loader-pct">0%</div>
+    <div class="loader-status" id="loader-status">initializing...</div>
+  </div>
 
   <div id="topbar">
     <span>C:\PORTFOLIO\INDEX.HTML</span>
@@ -838,8 +933,9 @@
         // Construct the hover text (Title + Rating)
         const label = `${g.title}${g.rating ? ' (' + g.rating + '/10)' : ''}`;
 
-        // Create the cell. We use sq=false because game posters are usually vertical.
+        // Create the cell with portrait game-cover ratio
         const gameCell = cell(g.poster, label, false);
+        gameCell.classList.add('game-cover');
 
         // Add specific class for status if you want to style 'playing' differently
         if (g.status === 'playing') gameCell.classList.add('is-playing');
@@ -857,13 +953,48 @@
       renderGames();
     });
 
-    // Fetch Data
+    // Fetch Data — also drives the loading screen
+    function loadGamesWithProgress(games) {
+      allGames = games;
+      renderGames();
+
+      const gamesWithPosters = games.filter(g => g.poster);
+      const total = gamesWithPosters.length;
+      if (total === 0) { hideLoader(); return; }
+
+      let loaded = 0;
+
+      function onProgress(title) {
+        loaded++;
+        const pct = Math.round((loaded / total) * 100);
+        document.getElementById('loader-bar').style.width = pct + '%';
+        document.getElementById('loader-pct').textContent = pct + '%';
+        document.getElementById('loader-status').textContent = title;
+        if (loaded >= total) {
+          setTimeout(hideLoader, 300);
+        }
+      }
+
+      gamesWithPosters.forEach(g => {
+        const img = new Image();
+        img.onload  = () => onProgress(g.title);
+        img.onerror = () => onProgress(g.title); // count failures too
+        img.src = g.poster;
+      });
+    }
+
+    function hideLoader() {
+      const loader = document.getElementById('loader');
+      loader.classList.add('fade-out');
+      setTimeout(() => loader.remove(), 550);
+    }
+
     fetch('games.json')
       .then(r => r.json())
-      .then(d => { allGames = d.games; renderGames(); })
+      .then(d => loadGamesWithProgress(d.games))
       .catch(() => {
-        // If games.json is missing, show error or fall back
         document.getElementById('games-grid').innerHTML = `<div class="err">Run update_games.py first.</div>`;
+        hideLoader();
       });
   </script>
 </body>

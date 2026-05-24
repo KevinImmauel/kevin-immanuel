@@ -1,2 +1,3 @@
 letterboxdpy
 requests
+python-dotenv

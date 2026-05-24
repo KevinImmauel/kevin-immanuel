@@ -6,6 +6,10 @@ import requests
 from letterboxdpy import user
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from dotenv import load_dotenv
+
+# Load .env for local development
+load_dotenv()
 
 LETTERBOXD_USER = "kevinvcx"
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
@@ -74,7 +78,7 @@ def main():
 
     # ── Recent Likes ──
     liked_movies = list(u.get_liked_films().get("movies", {}).values())
-    for movie in liked_movies[:8]:
+    for movie in liked_movies[:16]:
         time.sleep(2)
         title = movie.get("name", "")
         year  = movie.get("year")
@@ -92,7 +96,7 @@ def main():
     four_half_movies  = list(u.get_films_by_rating(4.5).get("movies", {}).values())
     combined_pool     = five_star_movies + four_half_movies
 
-    picks = random.sample(combined_pool, 8) if len(combined_pool) >= 8 else combined_pool
+    picks = random.sample(combined_pool, 16) if len(combined_pool) >= 16 else combined_pool
     for movie in picks:
         title  = movie.get("name", "")
         year   = movie.get("year")

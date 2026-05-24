@@ -39,13 +39,98 @@
       "title": "Send Help",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+    },
+    {
+      "title": "Raw",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg"
+    },
+    {
+      "title": "Source Code",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg"
+    },
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg"
+    },
+    {
+      "title": "The Northman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg"
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
+    },
+    {
+      "title": "It Comes at Night",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg"
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
+    },
+    {
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
     }
   ],
   "random_five_stars": [
     {
-      "title": "The Haunting of Hill House",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+    },
+    {
+      "title": "Adventure Time",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "title": "Watchmen",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+    },
+    {
+      "title": "Nuvvostanante Nenoddantana",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "title": "Nosferatu",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    },
+    {
+      "title": "Black Mirror: Shut Up and Dance",
+      "year": 2016,
+      "poster": null
     },
     {
       "title": "Bommarillu",
@@ -53,34 +138,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
     },
     {
-      "title": "Wake Up Dead Man",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
+      "title": "12 Angry Men",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
     },
     {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
-    },
-    {
-      "title": "Project X",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
-    },
-    {
-      "title": "Megamind",
+      "title": "The Social Network",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
     },
     {
-      "title": "Ford v Ferrari",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+      "title": "Inception",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
     }
   ]
 }

@@ -83,54 +83,59 @@
   ],
   "random_five_stars": [
     {
-      "title": "How to Make Millions Before Grandma Dies",
+      "title": "Okja",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "title": "The Brutalist",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
     },
     {
-      "title": "Bommarillu",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
-    },
-    {
-      "title": "Hereditary",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg"
-    },
-    {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
-    },
-    {
-      "title": "Megamind",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
-    },
-    {
-      "title": "Watchmen",
+      "title": "Ford v Ferrari",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
     },
     {
-      "title": "Adventure Time",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
+      "title": "Gone Girl",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
     },
     {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
     },
     {
-      "title": "Ex Machina",
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
+    },
+    {
+      "title": "Mad Max: Fury Road",
       "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
     },
     {
-      "title": "Up",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+      "title": "Incendies",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+    },
+    {
+      "title": "Obsession",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
     {
       "title": "Fallen Angels",
@@ -138,14 +143,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
     },
     {
-      "title": "Chronicle",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
-    },
-    {
-      "title": "Nuvvostanante Nenoddantana",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg"
     },
     {
       "title": "There Will Be Blood",
@@ -153,14 +153,14 @@
       "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
+      "title": "Project X",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
     },
     {
-      "title": "The Sandman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
     }
   ]
 }

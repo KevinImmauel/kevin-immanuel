@@ -83,19 +83,29 @@
   ],
   "random_five_stars": [
     {
-      "title": "John Wick: Chapter 3 – Parabellum",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
-    },
-    {
-      "title": "Constantine",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
-    },
-    {
       "title": "Oldboy",
       "year": 2003,
       "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "title": "Adolescence",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
+    },
+    {
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
     },
     {
       "title": "Fallen Angels",
@@ -103,24 +113,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
     },
     {
-      "title": "The Brutalist",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+      "title": "Okja",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
     },
     {
-      "title": "A Modern Farewell",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
     },
     {
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
+      "title": "Konchem Ishtam Konchem Kashtam",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
     },
     {
-      "title": "The Batman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
     },
     {
       "title": "Batman: Mask of the Phantasm",
@@ -128,34 +138,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
     },
     {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
     },
     {
-      "title": "Race Gurram",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg"
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
     },
     {
-      "title": "Inglourious Basterds",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
+      "title": "Obsession",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
     },
     {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "Ready Player One",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
-    },
-    {
-      "title": "Ratatouille",
+      "title": "There Will Be Blood",
       "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
       "title": "Marty Supreme",

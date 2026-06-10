@@ -1,6 +1,21 @@
 {
   "recent_likes": [
     {
+      "title": "Mr. Robot_dec0d3d.doc",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/z8u18GruegIcHIc1bjyoBAagCz8.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+    },
+    {
+      "title": "Blair Witch",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/9050VGrYjYrEjpOvDZVAngLbg1f.jpg"
+    },
+    {
       "title": "Upgrade",
       "year": 2018,
       "poster": "https://image.tmdb.org/t/p/w342/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg"
@@ -64,68 +79,13 @@
       "title": "10 Cloverfield Lane",
       "year": 2016,
       "poster": "https://image.tmdb.org/t/p/w342/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg"
-    },
-    {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-    },
-    {
-      "title": "The Suicide Squad",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/q61qEyssk2ku3okWICKArlAdhBn.jpg"
-    },
-    {
-      "title": "True Lies",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/pweFTnzzTfGK68woSVkiTgjLzWm.jpg"
     }
   ],
   "random_five_stars": [
     {
-      "title": "Oldboy",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
-    },
-    {
-      "title": "Adolescence",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
-    },
-    {
-      "title": "Wake Up Dead Man",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
-    },
-    {
-      "title": "Uncut Gems",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
-    },
-    {
       "title": "Ford v Ferrari",
       "year": 2019,
       "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
-    },
-    {
-      "title": "Fallen Angels",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
-    },
-    {
-      "title": "Okja",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
-    },
-    {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
-    },
-    {
-      "title": "Konchem Ishtam Konchem Kashtam",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
     },
     {
       "title": "The Wolf of Wall Street",
@@ -133,9 +93,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
     },
     {
-      "title": "Batman: Mask of the Phantasm",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
+      "title": "Megamind",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+    },
+    {
+      "title": "Adolescence",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
     },
     {
       "title": "Get Out",
@@ -143,14 +118,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
     },
     {
-      "title": "Home Alone 2: Lost in New York",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
     },
     {
-      "title": "Obsession",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+      "title": "Rango",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
+    },
+    {
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
     },
     {
       "title": "There Will Be Blood",
@@ -158,9 +138,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "title": "The Brutalist",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+    },
+    {
+      "title": "Konchem Ishtam Konchem Kashtam",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
     }
   ]
 }

@@ -83,44 +83,19 @@
   ],
   "random_five_stars": [
     {
-      "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
     },
     {
-      "title": "Guardians of the Galaxy Vol. 2",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg"
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
-    },
-    {
-      "title": "Megamind",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
-    },
-    {
-      "title": "Midnight Mass",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
-    },
-    {
-      "title": "Adventure Time",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
-    },
-    {
-      "title": "Us",
+      "title": "Uncut Gems",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
     },
     {
       "title": "Scott Pilgrim vs. the World",
@@ -128,14 +103,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
     },
     {
-      "title": "Bommarillu",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
+      "title": "Adventure Time",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
     },
     {
-      "title": "The Brutalist",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+      "title": "Gone Girl",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
     },
     {
       "title": "The Lighthouse",
@@ -143,24 +128,39 @@
       "poster": "https://image.tmdb.org/t/p/w342/f1tIYarTbkBdIT1aW0gzelDwknv.jpg"
     },
     {
-      "title": "mother!",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
     },
     {
-      "title": "Interstellar",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+      "title": "Marty Supreme",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
     },
     {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
+      "title": "Joker",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
     },
     {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     }
   ]
 }

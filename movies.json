@@ -83,74 +83,14 @@
   ],
   "random_five_stars": [
     {
+      "title": "Megamind",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+    },
+    {
       "title": "Bommarillu",
       "year": 2006,
       "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
-    },
-    {
-      "title": "12 Angry Men",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
-    },
-    {
-      "title": "I Saw the Devil",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
-    },
-    {
-      "title": "Joker",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
-    },
-    {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
-    },
-    {
-      "title": "Velaiyilla Pattathari",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
-    },
-    {
-      "title": "Sound of Metal",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
-    },
-    {
-      "title": "Cars",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg"
-    },
-    {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
-    },
-    {
-      "title": "Batman: Mask of the Phantasm",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
-    },
-    {
-      "title": "Get Out",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
-    },
-    {
-      "title": "Oldboy",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
     },
     {
       "title": "Sicario",
@@ -158,9 +98,69 @@
       "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
     },
     {
-      "title": "Edge of Tomorrow",
+      "title": "Up",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+      "title": "Interstellar",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+    },
+    {
+      "title": "Cars 3",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+    },
+    {
+      "title": "Baby Reindeer",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg"
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
+    },
+    {
+      "title": "Logan",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/f1tIYarTbkBdIT1aW0gzelDwknv.jpg"
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
     }
   ]
 }

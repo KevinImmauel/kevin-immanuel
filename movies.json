@@ -83,74 +83,24 @@
   ],
   "random_five_stars": [
     {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+    },
+    {
+      "title": "Obsession",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+    },
+    {
       "title": "Ex Machina",
       "year": 2015,
       "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
     },
     {
-      "title": "Velaiyilla Pattathari",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
-    },
-    {
-      "title": "Fight Club",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
-    },
-    {
-      "title": "How to Make Millions Before Grandma Dies",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
-    },
-    {
-      "title": "Home Alone",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
-    },
-    {
-      "title": "Mr. Robot_dec0d3d.doc",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/z8u18GruegIcHIc1bjyoBAagCz8.jpg"
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
-    },
-    {
-      "title": "Bommarillu",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
-    },
-    {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-    },
-    {
-      "title": "Chronicle",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
-    },
-    {
-      "title": "A Modern Farewell",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
-    },
-    {
-      "title": "The Social Network",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
-    },
-    {
-      "title": "Nightcrawler",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
-    },
-    {
-      "title": "Project Hail Mary",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
     },
     {
       "title": "Hereditary",
@@ -158,9 +108,59 @@
       "poster": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg"
     },
     {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
+    },
+    {
+      "title": "The Witch",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+    },
+    {
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/f1tIYarTbkBdIT1aW0gzelDwknv.jpg"
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+    },
+    {
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
+    },
+    {
+      "title": "Okja",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "title": "Cars 3",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     }
   ]
 }

@@ -83,54 +83,14 @@
   ],
   "random_five_stars": [
     {
-      "title": "Uncut Gems",
+      "title": "Sound of Metal",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
     },
     {
-      "title": "Fight Club",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
-    },
-    {
-      "title": "Get Out",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
-    },
-    {
-      "title": "Perfect Blue",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
-    },
-    {
-      "title": "Constantine",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
-    },
-    {
-      "title": "The Witch",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
-    },
-    {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
-    },
-    {
-      "title": "Cars",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg"
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
       "title": "Edge of Tomorrow",
@@ -138,29 +98,69 @@
       "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
     },
     {
+      "title": "Obsession",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
+    },
+    {
+      "title": "The Brutalist",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "Fallen Angels",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+    },
+    {
+      "title": "Joker",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+    },
+    {
+      "title": "The Witch",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+    },
+    {
       "title": "Godzilla Minus One",
       "year": 2023,
       "poster": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
-    },
-    {
-      "title": "Chronicle",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
-    },
-    {
-      "title": "Batman: Mask of the Phantasm",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
-    },
-    {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
     }
   ]
 }

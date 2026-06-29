@@ -83,64 +83,24 @@
   ],
   "random_five_stars": [
     {
-      "title": "Cars 3",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
-    },
-    {
-      "title": "Donnie Darko",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
-    },
-    {
-      "title": "Midnight Mass",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
-    },
-    {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "Arrival",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
-    },
-    {
-      "title": "Baby Reindeer",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg"
-    },
-    {
-      "title": "Nightcrawler",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
-    },
-    {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-    },
-    {
-      "title": "Obsession",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-    },
-    {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
-    },
-    {
-      "title": "The Lighthouse",
+      "title": "Sound of Metal",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/f1tIYarTbkBdIT1aW0gzelDwknv.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
     },
     {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "title": "The Matrix",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+    },
+    {
+      "title": "How to Make Millions Before Grandma Dies",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
     },
     {
       "title": "Fight Club",
@@ -148,19 +108,59 @@
       "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
     },
     {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+      "title": "Bommarillu",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
     },
     {
-      "title": "It",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+    },
+    {
+      "title": "Fallen Angels",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    {
+      "title": "Ready Player One",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+    },
+    {
+      "title": "Us",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+    },
+    {
+      "title": "Cars 3",
       "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     },
     {
-      "title": "PK",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
+      "title": "Konchem Ishtam Konchem Kashtam",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg"
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
     }
   ]
 }

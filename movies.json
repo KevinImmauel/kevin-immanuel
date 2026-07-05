@@ -83,74 +83,59 @@
   ],
   "random_five_stars": [
     {
-      "title": "Baby Reindeer",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg"
-    },
-    {
       "title": "mother!",
       "year": 2017,
       "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
     },
     {
-      "title": "Logan",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
     },
     {
-      "title": "A Modern Farewell",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
     },
     {
-      "title": "How to Make Millions Before Grandma Dies",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
-    },
-    {
-      "title": "The Batman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
-      "title": "Uncut Gems",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
-    },
-    {
-      "title": "John Wick: Chapter 4",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
-    },
-    {
-      "title": "Home Alone 2: Lost in New York",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
-    },
-    {
-      "title": "Ex Machina",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
-    },
-    {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-    },
-    {
-      "title": "Gone Girl",
+      "title": "Velaiyilla Pattathari",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
     },
     {
-      "title": "The Witch",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
+      "title": "Adolescence",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
+    },
+    {
+      "title": "Perfect Blue",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+    },
+    {
+      "title": "Cars 3",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+    },
+    {
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
+    },
+    {
+      "title": "Incendies",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
     },
     {
       "title": "The Haunting of Hill House",
@@ -158,9 +143,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg"
     },
     {
-      "title": "Us",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
+    },
+    {
+      "title": "Rango",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
     }
   ]
 }

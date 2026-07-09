@@ -3,12 +3,12 @@
     {
       "title": "The Lost World: Jurassic Park",
       "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/ahkJNt66Bx2W04BBIHplByVtSaU.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/7st3JW0xpMAkwB3dYfv3iqAwD8Y.jpg"
     },
     {
       "title": "Jurassic Park",
       "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/1468Tv8LF207WCJXDolm8l7hVo4.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/63viWuPfYQjRYLSZSZNq7dglJP5.jpg"
     },
     {
       "title": "22 Jump Street",
@@ -23,7 +23,7 @@
     {
       "title": "Hokum",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/x6rHcQFiYcczLQPrmxXPAicm54E.jpg"
     },
     {
       "title": "Mr. Robot_dec0d3d.doc",
@@ -83,39 +83,59 @@
   ],
   "random_five_stars": [
     {
-      "title": "Us",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
     },
     {
-      "title": "mother!",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
     },
     {
-      "title": "How to Make Millions Before Grandma Dies",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
+      "title": "Pearl",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg"
     },
     {
-      "title": "Sicario",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
+      "title": "Obsession",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
     },
     {
-      "title": "Adventure Time",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
+      "title": "Oldboy",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
     },
     {
-      "title": "Incendies",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
+      "title": "12 Angry Men",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
     },
     {
-      "title": "There Will Be Blood",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
+      "title": "Constantine",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
+    },
+    {
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "Cars",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg"
+    },
+    {
+      "title": "Rango",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
     },
     {
       "title": "Baby Reindeer",
@@ -123,44 +143,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg"
     },
     {
-      "title": "PK",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg"
     },
     {
-      "title": "Scott Pilgrim vs. the World",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
     },
     {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "title": "Project X",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
     },
     {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
-    },
-    {
-      "title": "I Saw the Devil",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
-    },
-    {
-      "title": "Donnie Darko",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
-    },
-    {
-      "title": "Black Mirror: Shut Up and Dance",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
     }
   ]
 }

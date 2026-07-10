@@ -83,54 +83,74 @@
   ],
   "random_five_stars": [
     {
-      "title": "The Lighthouse",
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/aSvpcSWb9ZHTDa2pyTWOyxucUZu.jpg"
+    },
+    {
+      "title": "Uncut Gems",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
     },
     {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
     },
     {
-      "title": "mother!",
+      "title": "Mr. Robot_dec0d3d.doc",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/z8u18GruegIcHIc1bjyoBAagCz8.jpg"
+    },
+    {
+      "title": "Chronicle",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    },
+    {
+      "title": "John Wick: Chapter 3 – Parabellum",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
+    },
+    {
+      "title": "Konchem Ishtam Konchem Kashtam",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
       "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
     },
     {
-      "title": "Gone Girl",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+      "title": "Ready Player One",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
     },
     {
-      "title": "I Saw the Devil",
+      "title": "Up",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+      "title": "Incendies",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
     },
     {
-      "title": "Wake Up Dead Man",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
-    },
-    {
-      "title": "PK",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
-    },
-    {
-      "title": "It",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
-    },
-    {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
       "title": "The Sandman",
@@ -138,29 +158,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
     },
     {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-    },
-    {
-      "title": "Nightcrawler",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
-    },
-    {
-      "title": "Inglourious Basterds",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
-    },
-    {
-      "title": "Amadeus",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
-    },
-    {
-      "title": "Project Hail Mary",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
     }
   ]
 }

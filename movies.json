@@ -88,24 +88,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
     },
     {
-      "title": "Logan",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
     },
     {
-      "title": "Pearl",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg"
-    },
-    {
-      "title": "PK",
+      "title": "Interstellar",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
     },
     {
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
+    },
+    {
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
     },
     {
       "title": "Hereditary",
@@ -113,9 +118,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg"
     },
     {
-      "title": "Chainsaw Man",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg"
+      "title": "Constantine",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    {
+      "title": "Logan",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "title": "Nosferatu",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
     },
     {
       "title": "Adventure Time",
@@ -123,44 +148,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/2K0TUPjiSZSy7tS9IlE7H06WyPM.jpg"
     },
     {
-      "title": "Joker",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
-    },
-    {
-      "title": "Mr. Robot_dec0d3d.doc",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/z8u18GruegIcHIc1bjyoBAagCz8.jpg"
-    },
-    {
-      "title": "The Odyssey",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-    },
-    {
-      "title": "Uncut Gems",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
-    },
-    {
-      "title": "Cars 3",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
-    },
-    {
-      "title": "Marty Supreme",
+      "title": "Wake Up Dead Man",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg"
     },
     {
-      "title": "Fallen Angels",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fQ8JzXRf68xlzyquLn7TEe3S2Nh.jpg"
     },
     {
-      "title": "Project Hail Mary",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+      "title": "PK",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
     }
   ]
 }

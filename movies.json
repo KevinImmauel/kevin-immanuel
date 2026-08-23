@@ -83,19 +83,29 @@
   ],
   "random_five_stars": [
     {
-      "title": "Amadeus",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
     },
     {
-      "title": "Constantine",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
+      "title": "Ex Machina",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
     },
     {
-      "title": "Race Gurram",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+    },
+    {
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg"
     },
     {
       "title": "There Will Be Blood",
@@ -103,34 +113,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
     },
     {
-      "title": "Perfect Blue",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+      "title": "Interstellar",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
     },
     {
-      "title": "The Fall of the House of Usher",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
+      "title": "The Odyssey",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
-      "title": "The Haunting of Hill House",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg"
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
     },
     {
-      "title": "Okja",
+      "title": "Get Out",
       "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
-    },
-    {
-      "title": "Nuvvostanante Nenoddantana",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
-    },
-    {
-      "title": "Arrival",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
     },
     {
       "title": "Scott Pilgrim vs. the World",
@@ -138,29 +138,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
     },
     {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
-    },
-    {
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
-    },
-    {
-      "title": "The Batman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
       "title": "No Country for Old Men",
       "year": 2007,
       "poster": "https://image.tmdb.org/t/p/w342/6d5XOczc226jECq0LIX0siKtgHR.jpg"
     },
     {
-      "title": "Black Mirror: Shut Up and Dance",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
+    },
+    {
+      "title": "The Brutalist",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+    },
+    {
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fQ8JzXRf68xlzyquLn7TEe3S2Nh.jpg"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
     }
   ]
 }

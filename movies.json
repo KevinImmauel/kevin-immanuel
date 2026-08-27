@@ -83,34 +83,59 @@
   ],
   "random_five_stars": [
     {
+      "title": "Fight Club",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
+    },
+    {
+      "title": "Marty Supreme",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/j9Z7P7BGHXn0I0uPiiyalC6efwe.jpg"
+    },
+    {
+      "title": "Okja",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "title": "Perfect Blue",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+    },
+    {
       "title": "Transformers One",
       "year": 2024,
       "poster": "https://image.tmdb.org/t/p/w342/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg"
     },
     {
-      "title": "Arrival",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
+      "title": "Amadeus",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/gQRfiyfGvr1az0quaYyMram3Aqt.jpg"
     },
     {
-      "title": "Nuvvostanante Nenoddantana",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
+      "title": "Cars",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
     },
     {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "12 Angry Men",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/ppd84D2i9W8jXmsyInGyihiSyqz.jpg"
-    },
-    {
-      "title": "Ratatouille",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+      "title": "Chronicle",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
     },
     {
       "title": "Nosferatu",
@@ -118,49 +143,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
     },
     {
-      "title": "Fight Club",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
-    },
-    {
-      "title": "Up",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
-    },
-    {
-      "title": "Project X",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
-    },
-    {
-      "title": "Get Out",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
-    },
-    {
-      "title": "How to Make Millions Before Grandma Dies",
+      "title": "Dune: Part Two",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
     },
     {
-      "title": "PK",
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+    },
+    {
+      "title": "John Wick",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
     },
     {
-      "title": "Inglourious Basterds",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
-    },
-    {
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
-    },
-    {
-      "title": "Race Gurram",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
+      "title": "Us",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
     }
   ]
 }

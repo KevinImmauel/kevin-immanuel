@@ -83,39 +83,19 @@
   ],
   "random_five_stars": [
     {
-      "title": "Ex Machina",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+      "title": "The Odyssey",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
-      "title": "Marty Supreme",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      "title": "PK",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
     },
     {
-      "title": "Us",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
-    },
-    {
-      "title": "Fight Club",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
-    },
-    {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-    },
-    {
-      "title": "Up",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
-    },
-    {
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg"
+      "title": "Chronicle",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
     },
     {
       "title": "Sicario",
@@ -123,29 +103,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
     },
     {
-      "title": "Cars 3",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
     },
     {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/j9Z7P7BGHXn0I0uPiiyalC6efwe.jpg"
-    },
-    {
-      "title": "Chainsaw Man",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg"
-    },
-    {
-      "title": "Interstellar",
+      "title": "Edge of Tomorrow",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
     },
     {
-      "title": "Konchem Ishtam Konchem Kashtam",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg"
+    },
+    {
+      "title": "Watchmen",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+    },
+    {
+      "title": "John Wick: Chapter 3 – Parabellum",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
     },
     {
       "title": "Logan",
@@ -153,14 +133,34 @@
       "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
     },
     {
-      "title": "The Sandman",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+      "title": "Ratatouille",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
     },
     {
-      "title": "The Social Network",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
     }
   ]
 }

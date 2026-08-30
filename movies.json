@@ -83,29 +83,39 @@
   ],
   "random_five_stars": [
     {
-      "title": "The Odyssey",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
     },
     {
-      "title": "PK",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
-    },
-    {
-      "title": "Chronicle",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
-    },
-    {
-      "title": "Sicario",
+      "title": "The Witch",
       "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
     },
     {
-      "title": "Home Alone 2: Lost in New York",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+      "title": "Arrival",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "title": "Nuvvostanante Nenoddantana",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
+    },
+    {
+      "title": "Konchem Ishtam Konchem Kashtam",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dT3MwBS3X0FJx22GngeMom8mKI4.jpg"
     },
     {
       "title": "Edge of Tomorrow",
@@ -113,29 +123,29 @@
       "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
     },
     {
-      "title": "Wake Up Dead Man",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg"
+      "title": "PK",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
     },
     {
-      "title": "Watchmen",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+      "title": "Velaiyilla Pattathari",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fQ8JzXRf68xlzyquLn7TEe3S2Nh.jpg"
     },
     {
-      "title": "John Wick: Chapter 3 – Parabellum",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
+      "title": "Project X",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
     },
     {
-      "title": "Logan",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+      "title": "Interstellar",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
     },
     {
-      "title": "Ratatouille",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+      "title": "How to Make Millions Before Grandma Dies",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
     },
     {
       "title": "Spider-Man: Into the Spider-Verse",
@@ -143,24 +153,14 @@
       "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
     },
     {
-      "title": "Home Alone",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+      "title": "Nosferatu",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
     },
     {
-      "title": "Donnie Darko",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
-    },
-    {
-      "title": "The Haunting of Hill House",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg"
-    },
-    {
-      "title": "The Lighthouse",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+      "title": "Race Gurram",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
     }
   ]
 }

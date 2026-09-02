@@ -83,74 +83,19 @@
   ],
   "random_five_stars": [
     {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-    },
-    {
-      "title": "Project X",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
-    },
-    {
-      "title": "Race Gurram",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/gu3bzAFuQH3fZEFnCsj9uWGZH0v.jpg"
-    },
-    {
-      "title": "No Country for Old Men",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/6d5XOczc226jECq0LIX0siKtgHR.jpg"
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
-    },
-    {
-      "title": "Baby Reindeer",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg"
-    },
-    {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
-    },
-    {
-      "title": "Rango",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
-    },
-    {
-      "title": "Cars",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
-    },
-    {
-      "title": "How to Make Millions Before Grandma Dies",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
-    },
-    {
-      "title": "I Saw the Devil",
+      "title": "Incendies",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
     },
     {
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
-    },
-    {
-      "title": "Wake Up Dead Man",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg"
+      "title": "The Brutalist",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
     },
     {
       "title": "Donnie Darko",
@@ -158,9 +103,64 @@
       "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
     },
     {
-      "title": "Megamind",
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+    },
+    {
+      "title": "Nosferatu",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+    },
+    {
+      "title": "I Saw the Devil",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
+    },
+    {
+      "title": "Black Mirror: Shut Up and Dance",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
+    },
+    {
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
+    },
+    {
+      "title": "Constantine",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
+    },
+    {
+      "title": "mother!",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
+    },
+    {
+      "title": "Okja",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+    },
+    {
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
     }
   ]
 }

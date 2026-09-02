@@ -83,44 +83,9 @@
   ],
   "random_five_stars": [
     {
-      "title": "Incendies",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg"
-    },
-    {
-      "title": "Home Alone",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
-    },
-    {
-      "title": "The Brutalist",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
-    },
-    {
-      "title": "Donnie Darko",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
-    },
-    {
-      "title": "The Lighthouse",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
-    },
-    {
-      "title": "Nosferatu",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-    },
-    {
-      "title": "I Saw the Devil",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
-    },
-    {
-      "title": "Black Mirror: Shut Up and Dance",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
+      "title": "Marty Supreme",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
     },
     {
       "title": "Batman: Mask of the Phantasm",
@@ -128,34 +93,69 @@
       "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
     },
     {
-      "title": "Constantine",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
+      "title": "Mr. Robot_dec0d3d.doc",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/z8u18GruegIcHIc1bjyoBAagCz8.jpg"
     },
     {
-      "title": "mother!",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fjny9chXPx69ln1LMJxbwi5yHMt.jpg"
+      "title": "Pearl",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg"
     },
     {
-      "title": "Okja",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
     },
     {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
     },
     {
-      "title": "Interstellar",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg"
     },
     {
-      "title": "A Modern Farewell",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+      "title": "The Sandman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/omm6wylJGVlCRLbjWplTq808KIo.jpg"
+    },
+    {
+      "title": "Megamind",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "Bommarillu",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "title": "Perfect Blue",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
     },
     {
       "title": "Nightcrawler",

@@ -83,44 +83,9 @@
   ],
   "random_five_stars": [
     {
-      "title": "Catch Me If You Can",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
-    },
-    {
-      "title": "Logan",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
-    },
-    {
-      "title": "Perfect Blue",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
-    },
-    {
-      "title": "Nightcrawler",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
-    },
-    {
-      "title": "Batman: Mask of the Phantasm",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
-    },
-    {
       "title": "The Witch",
       "year": 2015,
       "poster": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
     },
     {
       "title": "Megamind",
@@ -128,24 +93,64 @@
       "poster": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
     },
     {
-      "title": "Black Mirror: Shut Up and Dance",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
+      "title": "Adolescence",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
     },
     {
-      "title": "Chainsaw Man",
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+    },
+    {
+      "title": "Pearl",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg"
     },
     {
-      "title": "Hereditary",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg"
+      "title": "How to Make Millions Before Grandma Dies",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
     },
     {
-      "title": "Nuvvostanante Nenoddantana",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zixbDSR1gOHgcATGdMaq20LjZEL.jpg"
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
+    },
+    {
+      "title": "Watchmen",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg"
     },
     {
       "title": "How to Train Your Dragon",
@@ -153,14 +158,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
     },
     {
-      "title": "Ready Player One",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
-    },
-    {
-      "title": "Bommarillu",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
     }
   ]
 }

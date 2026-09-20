@@ -953,23 +953,49 @@
 
     // Deezer doesn't need an API key for search!
     async function getDeezerImage(artistName) {
-      try {
-        const apiTarget = `https://api.deezer.com/search/artist?q=${encodeURIComponent(artistName)}&limit=1`;
+      const apiTarget = `https://api.deezer.com/search/artist?q=${encodeURIComponent(artistName)}&limit=1`;
 
-        // We wrap the URL in a proxy to bypass browser security restrictions
-        const r = await fetch(`https://corsproxy.io/?${encodeURIComponent(apiTarget)}`);
-
-        const d = await r.json();
-
-        // Guard against missing/empty data array (e.g. proxy rate-limit or error response)
-        if (!d.data || d.data.length === 0) return null;
-
-        // ISOxo and other modern artists should show up now
-        return d.data[0]?.picture_medium || null;
-      } catch (e) {
-        console.error("Deezer fetch failed:", e);
-        return null;
+      // Helper: fetch with a 5s timeout
+      function fetchTimeout(url) {
+        const ctrl = new AbortController();
+        const id = setTimeout(() => ctrl.abort(), 5000);
+        return fetch(url, { signal: ctrl.signal }).finally(() => clearTimeout(id));
       }
+
+      // Try multiple CORS proxies in order (corsproxy.io blocks localhost)
+      const proxies = [
+        // api.cors.lol — works on localhost and production
+        async () => {
+          const r = await fetchTimeout(`https://api.cors.lol/?url=${encodeURIComponent(apiTarget)}`);
+          if (!r.ok) throw new Error('cors.lol error');
+          return r.json();
+        },
+        // corsproxy.io — works in production/deployed environments
+        async () => {
+          const r = await fetchTimeout(`https://corsproxy.io/?${encodeURIComponent(apiTarget)}`);
+          if (!r.ok) throw new Error('corsproxy error');
+          return r.json();
+        },
+        // allorigins — last resort, wraps response in {contents: "..."}
+        async () => {
+          const r = await fetchTimeout(`https://api.allorigins.win/get?url=${encodeURIComponent(apiTarget)}`);
+          if (!r.ok) throw new Error('allorigins error');
+          const wrapper = await r.json();
+          return JSON.parse(wrapper.contents);
+        },
+      ];
+
+      for (const proxyFn of proxies) {
+        try {
+          const d = await proxyFn();
+          if (!d.data || d.data.length === 0) continue;
+          return d.data[0]?.picture_medium || null;
+        } catch (e) {
+          // Try next proxy
+        }
+      }
+
+      return null;
     }
 
     /* ── LOADERS ── */
@@ -1008,9 +1034,14 @@
         g.innerHTML = '';
 
         // We use Promise.all to fetch all Deezer images in parallel
+        // Each promise is individually guarded so one failure doesn't blank the whole grid
         const artistPromises = artists.map(async (a) => {
-          const photo = await getDeezerImage(a.name);
-          return cell(photo, a.name, true);
+          try {
+            const photo = await getDeezerImage(a.name);
+            return cell(photo, a.name, true);
+          } catch {
+            return cell(null, a.name, true);
+          }
         });
 
         const cells = await Promise.all(artistPromises);

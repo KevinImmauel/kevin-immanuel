@@ -951,16 +951,36 @@
       return `${FM_BASE}?method=${method}&user=${CFG.lastfmUser}&api_key=${CFG.lastfmApiKey}&format=json&${extra}`;
     }
 
-    // Get artist image — Wikipedia first (native CORS), Deezer via proxy as fallback
+    // Get artist image: fanart.tv (best quality) → Wikipedia fallback
     async function getArtistImage(artistName) {
-      // Helper: fetch with a 5s timeout
+      const FANART_KEY = '6e0d8c3c5bc8eabf8c9482cb6a5b382b';
+
       function fetchTimeout(url, opts = {}) {
         const ctrl = new AbortController();
-        const id = setTimeout(() => ctrl.abort(), 5000);
+        const id = setTimeout(() => ctrl.abort(), 6000);
         return fetch(url, { ...opts, signal: ctrl.signal }).finally(() => clearTimeout(id));
       }
 
-      // 1. Wikipedia API — has native CORS (origin=*), no proxy needed, works everywhere
+      // 1. MusicBrainz → fanart.tv (both have native CORS, no proxy needed)
+      try {
+        const mbUrl = `https://musicbrainz.org/ws/2/artist/?query=artist:${encodeURIComponent(artistName)}&limit=1&fmt=json`;
+        const mbr = await fetchTimeout(mbUrl, { headers: { 'User-Agent': 'kevin-immanuel-portfolio/1.0 (https://kevinimmauel.github.io)' } });
+        if (mbr.ok) {
+          const mbd = await mbr.json();
+          const mbid = mbd.artists?.[0]?.id;
+          if (mbid) {
+            const ftUrl = `https://webservice.fanart.tv/v3/music/${mbid}?api_key=${FANART_KEY}`;
+            const ftr = await fetchTimeout(ftUrl);
+            if (ftr.ok) {
+              const ftd = await ftr.json();
+              const thumb = ftd.artistthumb?.[0]?.url;
+              if (thumb) return thumb;
+            }
+          }
+        }
+      } catch (e) { /* fall through */ }
+
+      // 2. Wikipedia — fallback for artists not on fanart.tv
       try {
         const wikiUrl = `https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(artistName)}&prop=pageimages&format=json&pithumbsize=400&origin=*`;
         const r = await fetchTimeout(wikiUrl);
@@ -968,17 +988,6 @@
           const d = await r.json();
           const page = Object.values(d.query?.pages || {})[0];
           if (page?.thumbnail?.source) return page.thumbnail.source;
-        }
-      } catch (e) { /* fall through */ }
-
-      // 2. Deezer via allorigins (last resort)
-      try {
-        const deezerUrl = `https://api.deezer.com/search/artist?q=${encodeURIComponent(artistName)}&limit=1`;
-        const r = await fetchTimeout(`https://api.allorigins.win/get?url=${encodeURIComponent(deezerUrl)}`);
-        if (r.ok) {
-          const wrapper = await r.json();
-          const d = JSON.parse(wrapper.contents);
-          if (d.data?.length) return d.data[0]?.picture_medium || null;
         }
       } catch (e) { /* fall through */ }
 

@@ -961,6 +961,9 @@
 
         const d = await r.json();
 
+        // Guard against missing/empty data array (e.g. proxy rate-limit or error response)
+        if (!d.data || d.data.length === 0) return null;
+
         // ISOxo and other modern artists should show up now
         return d.data[0]?.picture_medium || null;
       } catch (e) {

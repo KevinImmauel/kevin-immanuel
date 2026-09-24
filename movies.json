@@ -83,64 +83,9 @@
   ],
   "random_five_stars": [
     {
-      "title": "Inglourious Basterds",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
-    },
-    {
-      "title": "Fight Club",
+      "title": "The Matrix",
       "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
-    },
-    {
-      "title": "Uncut Gems",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
-    },
-    {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
-    },
-    {
-      "title": "The Fall of the House of Usher",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
-    },
-    {
-      "title": "Perfect Blue",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
-    },
-    {
-      "title": "Joker",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
-    },
-    {
-      "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-    },
-    {
-      "title": "Home Alone 2: Lost in New York",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
-    },
-    {
-      "title": "Black Mirror: Shut Up and Dance",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg"
-    },
-    {
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg"
-    },
-    {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
     },
     {
       "title": "Godzilla Minus One",
@@ -148,19 +93,74 @@
       "poster": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
     },
     {
-      "title": "Cars",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
-    },
-    {
-      "title": "Chainsaw Man",
+      "title": "The Batman",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "title": "A Modern Farewell",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/5QOUZWxgA3yPIvJ1UgCAtqAEZyk.jpg"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+    },
+    {
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
+    },
+    {
+      "title": "Ready Player One",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
     }
   ]
 }

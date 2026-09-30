@@ -83,19 +83,24 @@
   ],
   "random_five_stars": [
     {
-      "title": "John Wick: Chapter 3 – Parabellum",
+      "title": "Watchmen",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
     },
     {
-      "title": "John Wick: Chapter 4",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+      "title": "Constantine",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg"
     },
     {
-      "title": "Cars 3",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+      "title": "Sicario",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
     },
     {
       "title": "Ratatouille",
@@ -103,54 +108,9 @@
       "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
     },
     {
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
-    },
-    {
-      "title": "Bommarillu",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/oYN5XJzV9dYGwzq4fmp41xcIaDS.jpg"
-    },
-    {
-      "title": "John Wick",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg"
-    },
-    {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
-    },
-    {
-      "title": "There Will Be Blood",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-    },
-    {
-      "title": "Godzilla Minus One",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
-    },
-    {
-      "title": "Pearl",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg"
-    },
-    {
-      "title": "Ford v Ferrari",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+      "title": "Adolescence",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gyasYg4xhmmVfbsS96x4CCm6a30.jpg"
     },
     {
       "title": "How to Make Millions Before Grandma Dies",
@@ -158,9 +118,49 @@
       "poster": "https://image.tmdb.org/t/p/w342/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
     },
     {
-      "title": "Guardians of the Galaxy Vol. 2",
+      "title": "Okja",
       "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+      "poster": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1sAyrQb8n5QyeqBEVHZZjrcbTVu.jpg"
+    },
+    {
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg"
+    },
+    {
+      "title": "Project X",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "title": "The Brutalist",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
     }
   ]
 }

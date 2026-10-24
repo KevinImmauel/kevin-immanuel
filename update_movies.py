@@ -14,6 +14,13 @@ load_dotenv()
 LETTERBOXD_USER = "kevinvcx"
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 
+def load_existing_movies_data():
+    try:
+        with open("movies.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
 def get_tmdb_poster(title, year=None):
     """
     Tries to find a poster for a title from TMDB.
@@ -84,41 +91,48 @@ def get_tmdb_poster(title, year=None):
 
 def main():
     print(f"Fetching Letterboxd data for: {LETTERBOXD_USER}")
-    u = user.User(LETTERBOXD_USER)
-
     website_data = {"recent_likes": [], "random_five_stars": []}
+    try:
+        u = user.User(LETTERBOXD_USER)
 
-    # ── Recent Likes ──
-    liked_movies = list(u.get_liked_films().get("movies", {}).values())
-    for movie in liked_movies[:16]:
-        time.sleep(2)
-        title = movie.get("name", "")
-        year  = movie.get("year")
-        poster = get_tmdb_poster(title, year)
-        print(f"  liked: {title} ({year}) → poster: {'ok' if poster else 'none'}")
-        website_data["recent_likes"].append({
-            "title":  title,
-            "year":   year,
-            "poster": poster,
-        })
+        # ── Recent Likes ──
+        liked_movies = list(u.get_liked_films().get("movies", {}).values())
+        for movie in liked_movies[:16]:
+            time.sleep(2)
+            title = movie.get("name", "")
+            year  = movie.get("year")
+            poster = get_tmdb_poster(title, year)
+            print(f"  liked: {title} ({year}) → poster: {'ok' if poster else 'none'}")
+            website_data["recent_likes"].append({
+                "title":  title,
+                "year":   year,
+                "poster": poster,
+            })
 
-    # ── Random 5-Star & 4.5-Star Picks ──
-    # Combine both 5-star and 4.5-star rated films for more variety
-    five_star_movies  = list(u.get_films_by_rating(5).get("movies", {}).values())
-    four_half_movies  = list(u.get_films_by_rating(4.5).get("movies", {}).values())
-    combined_pool     = five_star_movies + four_half_movies
+        # ── Random 5-Star & 4.5-Star Picks ──
+        # Combine both 5-star and 4.5-star rated films for more variety
+        five_star_movies  = list(u.get_films_by_rating(5).get("movies", {}).values())
+        four_half_movies  = list(u.get_films_by_rating(4.5).get("movies", {}).values())
+        combined_pool     = five_star_movies + four_half_movies
 
-    picks = random.sample(combined_pool, 16) if len(combined_pool) >= 16 else combined_pool
-    for movie in picks:
-        title  = movie.get("name", "")
-        year   = movie.get("year")
-        poster = get_tmdb_poster(title, year)
-        print(f"  5/4.5star: {title} ({year}) → poster: {'ok' if poster else 'none'}")
-        website_data["random_five_stars"].append({
-            "title":  title,
-            "year":   year,
-            "poster": poster,
-        })
+        picks = random.sample(combined_pool, 16) if len(combined_pool) >= 16 else combined_pool
+        for movie in picks:
+            title  = movie.get("name", "")
+            year   = movie.get("year")
+            poster = get_tmdb_poster(title, year)
+            print(f"  5/4.5star: {title} ({year}) → poster: {'ok' if poster else 'none'}")
+            website_data["random_five_stars"].append({
+                "title":  title,
+                "year":   year,
+                "poster": poster,
+            })
+    except Exception as e:
+        print(f"Letterboxd fetch failed: {e}")
+        cached_data = load_existing_movies_data()
+        if cached_data is not None:
+            print("Keeping existing movies.json data.")
+            return
+        print("No existing movies.json found; writing empty fallback data.")
 
     with open("movies.json", "w", encoding="utf-8") as f:
         json.dump(website_data, f, ensure_ascii=False, indent=2)

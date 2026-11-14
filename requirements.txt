@@ -1,3 +1,0 @@
-letterboxdpy
-requests
-python-dotenv

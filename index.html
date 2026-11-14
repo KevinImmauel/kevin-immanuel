@@ -12,106 +12,12 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet" />
   <style>
-    /* ══════════════════════════════════
-       LOADING SCREEN
-       ══════════════════════════════════ */
-    #loader {
-      position: fixed;
-      inset: 0;
-      z-index: 9999;
-      background: #000;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      font-family: 'Share Tech Mono', 'Courier New', monospace;
-      color: #c0c0c0;
-      transition: opacity 0.5s ease;
-    }
-
-    #loader.fade-out {
-      opacity: 0;
-      pointer-events: none;
-    }
-
-    .loader-title {
-      font-size: 14px;
-      color: #606060;
-      margin-bottom: 20px;
-      letter-spacing: 2px;
-    }
-
-    .loader-bar-wrap {
-      width: 260px;
-      border: 1px solid #303030;
-      padding: 2px;
-      margin-bottom: 10px;
-    }
-
-    .loader-bar {
-      height: 6px;
-      background: #c0c0c0;
-      width: 0%;
-      transition: width 0.15s linear;
-    }
-
-    .loader-pct {
-      font-size: 11px;
-      color: #606060;
-      text-align: center;
-      width: 260px;
-      margin-bottom: 16px;
-    }
-
-    .loader-status {
-      font-size: 10px;
-      color: #404040;
-      height: 14px;
-      text-align: center;
-      width: 300px;
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
-
-    @keyframes loader-cursor {
-      50% { opacity: 0; }
-    }
-
-    .loader-cursor {
-      display: inline-block;
-      animation: loader-cursor 1s step-end infinite;
-    }
     *,
     *::before,
     *::after {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-    }
-
-    .now-playing img {
-      border: 1px solid #00ff00;
-      /* Green border for the active song */
-      box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
-    }
-
-    @keyframes pulse {
-      0% {
-        opacity: 1;
-      }
-
-      50% {
-        opacity: 0.5;
-      }
-
-      100% {
-        opacity: 1;
-      }
-    }
-
-    .now-playing span {
-      animation: pulse 1.5s infinite;
     }
 
     :root {
@@ -279,8 +185,7 @@
       margin-bottom: 8px;
     }
 
-    .sub-label+.sub-label,
-    .img-grid+.sub-label {
+    .sub-label+.sub-label {
       margin-top: 18px;
     }
 
@@ -379,147 +284,6 @@
       color: var(--dim);
     }
 
-    /* IMAGE GRIDS */
-    .img-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
-      gap: 3px;
-      /* Isolate grid layout from the rest of the page */
-      contain: layout;
-    }
-
-    .img-cell {
-      aspect-ratio: 2/3;
-      overflow: hidden;
-      background: #080808;
-      border: 1px solid var(--border);
-      position: relative;
-      /* Paint isolation per cell — prevents repaint spreading to neighbours */
-      contain: strict;
-    }
-
-    .img-cell.sq {
-      aspect-ratio: 1/1;
-    }
-
-    /* Games grid uses portrait 3:4 ratio for cover art */
-    .img-cell.game-cover {
-      aspect-ratio: 3/4;
-    }
-
-    .img-cell img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-      /* Use opacity instead of filter — much cheaper, stays on compositor thread */
-      opacity: 0.7;
-      transition: opacity 0.2s;
-    }
-
-    .img-cell:hover img {
-      opacity: 1;
-      /* Only promote to own layer when actually hovered */
-      will-change: opacity;
-    }
-
-    .img-cell .ph {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--border);
-      font-size: 18px;
-    }
-
-    .img-cell .ov {
-      position: absolute;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.72);
-      display: flex;
-      align-items: flex-end;
-      padding: 5px;
-      /* Use transform+opacity instead of opacity alone for compositor promotion */
-      opacity: 0;
-      transform: translateZ(0);
-      transition: opacity 0.18s;
-      pointer-events: none;
-    }
-
-    .img-cell:hover .ov {
-      opacity: 1;
-      will-change: opacity;
-    }
-
-    .ov-txt {
-      color: #fff;
-      font-size: 9px;
-      line-height: 1.3;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-    }
-
-    /* GAMES */
-    .gf-bar {
-      margin-bottom: 10px;
-      display: flex;
-      gap: 5px;
-    }
-
-    .gf-btn {
-      border: 1px solid var(--border);
-      padding: 1px 10px;
-      font-family: inherit;
-      font-size: 11px;
-      background: transparent;
-      color: var(--dim);
-      cursor: pointer;
-    }
-
-    .gf-btn.active {
-      background: var(--fg);
-      color: var(--bg);
-    }
-
-    .gtbl {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 12px;
-    }
-
-    .gtbl th {
-      text-align: left;
-      color: var(--dim);
-      font-weight: normal;
-      border-bottom: 1px solid var(--border);
-      padding: 3px 8px;
-    }
-
-    .gtbl td {
-      padding: 4px 8px;
-      border-bottom: 1px solid #111;
-    }
-
-    .gtbl tr:hover td {
-      background: #0c0c0c;
-    }
-
-    .s-c {
-      color: var(--green);
-    }
-
-    .s-p {
-      color: var(--accent);
-    }
-
-    .g-note {
-      color: var(--dim);
-      font-size: 11px;
-    }
-
     /* CONTACT */
     .c-row {
       display: flex;
@@ -537,25 +301,6 @@
     }
 
     .c-btn:hover {
-      background: var(--fg);
-      color: var(--bg);
-    }
-
-    /* SEE MORE BUTTON */
-    .see-more-btn {
-      background: transparent;
-      border: 1px solid var(--border);
-      color: var(--dim);
-      font-family: inherit;
-      font-size: 11px;
-      padding: 2px 10px;
-      cursor: pointer;
-      margin-top: 8px;
-      display: inline-block;
-      transition: background 0.1s, color 0.1s;
-    }
-
-    .see-more-btn:hover {
       background: var(--fg);
       color: var(--bg);
     }
@@ -600,24 +345,11 @@
 
 <body>
 
-  <!-- LOADING SCREEN -->
-  <div id="loader">
-    <div class="loader-title">C:\&gt; LOADING PORTFOLIO<span class="loader-cursor">_</span></div>
-    <div class="loader-bar-wrap">
-      <div class="loader-bar" id="loader-bar"></div>
-    </div>
-    <div class="loader-pct" id="loader-pct">0%</div>
-    <div class="loader-status" id="loader-status">initializing...</div>
-  </div>
-
   <div id="topbar">
     <span>C:\PORTFOLIO\INDEX.HTML</span>
     <nav>
       <a href="#resume">RESUME</a>
       <a href="#projects">PROJECTS</a>
-      <a href="#films">FILMS</a>
-      <a href="#music">MUSIC</a>
-      <a href="#games">GAMES</a>
       <a href="#contact">CONTACT</a>
     </nav>
   </div>
@@ -707,66 +439,6 @@
       <div id="proj-list"></div>
     </section>
 
-    <!-- FILMS -->
-    <section id="films" class="section">
-      <div class="sec-title">DIR /letterboxd</div>
-
-      <div class="sub-label"># RECENTLY LIKED</div>
-      <div class="img-grid" id="likes-grid">
-        <div class="img-cell">
-          <div class="ph">?</div>
-        </div>
-      </div>
-      <div style="margin-top: 6px; margin-bottom: 16px;">
-        <button id="btn-likes" class="see-more-btn" style="display: none;"></button>
-      </div>
-
-      <div class="sub-label"># RANDOM 5-4.5 STAR PICKS — UPDATES EVERY 12 HOURS</div>
-      <div class="img-grid" id="stars-grid">
-        <div class="img-cell">
-          <div class="ph">?</div>
-        </div>
-      </div>
-      <div style="margin-top: 6px; margin-bottom: 16px;">
-        <button id="btn-stars" class="see-more-btn" style="display: none;"></button>
-      </div>
-    </section>
-
-    <!-- MUSIC -->
-    <section id="music" class="section">
-      <div class="sec-title">DIR /lastfm</div>
-
-      <div class="sub-label"># TOP ARTISTS — THIS MONTH</div>
-      <div class="img-grid" id="artists-grid">
-        <div class="img-cell sq">
-          <div class="ph">?</div>
-        </div>
-      </div>
-
-      <div class="sub-label"># RECENTLY SCROBBLED</div>
-      <div class="img-grid" id="tracks-grid">
-        <div class="img-cell sq">
-          <div class="ph">?</div>
-        </div>
-      </div>
-    </section>
-
-    <!-- GAMES -->
-    <section id="games" class="section">
-      <div class="sec-title">TYPE games.json</div>
-
-      <div class="gf-bar" id="gf-bar">
-        <button class="gf-btn active" data-f="all">ALL</button>
-        <button class="gf-btn" data-f="completed">COMPLETED</button>
-        <button class="gf-btn" data-f="playing">PLAYING</button>
-      </div>
-
-      <div class="img-grid" id="games-grid"></div>
-      <div style="margin-top: 10px;">
-        <button id="btn-games" class="see-more-btn" style="display: none;"></button>
-      </div>
-    </section>
-
     <!-- CONTACT -->
     <section id="contact" class="section">
       <div class="sec-title">PING --contact</div>
@@ -847,103 +519,6 @@
       return d;
     }
 
-    /* ── SHUFFLE & COLLAPSE HELPERS ── */
-    function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
-      return array;
-    }
-
-    function updateGridRows() {
-      const grids = [
-        { id: 'likes-grid', maxRows: 1, btnId: 'btn-likes' },
-        { id: 'stars-grid', maxRows: 1, btnId: 'btn-stars' },
-        { id: 'games-grid', maxRows: 2, btnId: 'btn-games' }
-      ];
-
-      grids.forEach(({ id, maxRows, btnId }) => {
-        const grid = document.getElementById(id);
-        const btn = document.getElementById(btnId);
-        if (!grid || !btn) return;
-
-        const isExpanded = grid.classList.contains('expanded');
-        const items = Array.from(grid.children).filter(el => !el.classList.contains('err'));
-
-        if (items.length === 0) {
-          btn.style.display = 'none';
-          return;
-        }
-
-        if (isExpanded) {
-          items.forEach(el => el.style.display = '');
-          btn.textContent = '[-] SEE LESS';
-          btn.style.display = '';
-        } else {
-          const colsStr = getComputedStyle(grid).gridTemplateColumns;
-          const cols = colsStr.split(' ').filter(Boolean).length;
-          
-          if (cols > 0) {
-            const visibleLimit = cols * maxRows;
-            if (items.length > visibleLimit) {
-              items.forEach((el, idx) => {
-                el.style.display = idx >= visibleLimit ? 'none' : '';
-              });
-              btn.style.display = '';
-              btn.textContent = `[+] SEE MORE (${items.length - visibleLimit} MORE)`;
-            } else {
-              items.forEach(el => el.style.display = '');
-              btn.style.display = 'none';
-            }
-          }
-        }
-      });
-    }
-
-    // Set up window resize listener
-    let resizeTimeout;
-    window.addEventListener('resize', () => {
-      if (resizeTimeout) cancelAnimationFrame(resizeTimeout);
-      resizeTimeout = requestAnimationFrame(updateGridRows);
-    });
-
-    // Set up see more buttons click handlers
-    document.querySelectorAll('.see-more-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const gridId = btn.id.replace('btn-', '') + '-grid';
-        const grid = document.getElementById(gridId);
-        if (grid) {
-          grid.classList.toggle('expanded');
-          updateGridRows();
-        }
-      });
-    });
-
-    const cacheBuster = new Date().getTime();
-    /* ── FILMS — from movies.json (generated by GitHub Actions) ── */
-    fetch(`movies.json?v=${cacheBuster}`)
-      .then(r => r.json())
-      .then(d => {
-        const lg = document.getElementById('likes-grid');
-        const sg = document.getElementById('stars-grid');
-        lg.innerHTML = sg.innerHTML = '';
-        d.recent_likes.forEach(m =>
-          lg.appendChild(cell(m.poster, `${m.title}${m.year ? ' (' + m.year + ')' : ''}`))
-        );
-        d.random_five_stars.forEach(m =>
-          sg.appendChild(cell(m.poster, `${m.title}${m.year ? ' (' + m.year + ')' : ''}`))
-        );
-        updateGridRows();
-      })
-      .catch(() => {
-        document.getElementById('likes-grid').innerHTML =
-          `<div style="color:var(--dim);font-size:11px;padding:8px;grid-column:1/-1">
-         push repo to github → actions will generate movies.json on first run
-       </div>`;
-        document.getElementById('stars-grid').innerHTML = '';
-      });
-
     const FM_BASE = 'https://ws.audioscrobbler.com/2.0/';
 
     /* ── HELPERS ── */
@@ -994,7 +569,7 @@
       return null;
     }
 
-    /* ── LOADERS ── */
+    /* ── MUSIC ── */
 
     // 1. Tracks (Real-time)
     async function loadTracks() {
@@ -1051,89 +626,6 @@
     // Initialize
     loadTracks();
     loadArtists();
-
-    /* ── GAMES LOGIC ── */
-    let allGames = [], gFilter = 'all';
-
-    function renderGames() {
-      const gContainer = document.getElementById('games-grid');
-      // Filter based on tab selection
-      const list = gFilter === 'all' ? allGames : allGames.filter(g => g.status === gFilter);
-
-      gContainer.innerHTML = '';
-
-      list.forEach(g => {
-        // Construct the hover text (Title + Rating)
-        const label = `${g.title}${g.rating ? ' (' + g.rating + '/10)' : ''}`;
-
-        // Create the cell with portrait game-cover ratio
-        const gameCell = cell(g.poster, label, false);
-        gameCell.classList.add('game-cover');
-
-        // Add specific class for status if you want to style 'playing' differently
-        if (g.status === 'playing') gameCell.classList.add('is-playing');
-
-        gContainer.appendChild(gameCell);
-      });
-
-      updateGridRows();
-    }
-
-    // Tab Logic
-    document.getElementById('gf-bar').addEventListener('click', e => {
-      if (!e.target.matches('.gf-btn')) return;
-      document.querySelectorAll('.gf-btn').forEach(b => b.classList.remove('active'));
-      e.target.classList.add('active');
-      gFilter = e.target.dataset.f;
-      renderGames();
-    });
-
-    // Fetch Data — also drives the loading screen
-    function loadGamesWithProgress(games) {
-      allGames = games;
-      renderGames();
-
-      const gamesWithPosters = games.filter(g => g.poster);
-      const total = gamesWithPosters.length;
-      if (total === 0) { hideLoader(); return; }
-
-      let loaded = 0;
-
-      function onProgress(title) {
-        loaded++;
-        const pct = Math.round((loaded / total) * 100);
-        document.getElementById('loader-bar').style.width = pct + '%';
-        document.getElementById('loader-pct').textContent = pct + '%';
-        document.getElementById('loader-status').textContent = title;
-        if (loaded >= total) {
-          setTimeout(hideLoader, 300);
-        }
-      }
-
-      gamesWithPosters.forEach(g => {
-        const img = new Image();
-        img.onload  = () => onProgress(g.title);
-        img.onerror = () => onProgress(g.title); // count failures too
-        img.src = g.poster;
-      });
-    }
-
-    function hideLoader() {
-      const loader = document.getElementById('loader');
-      loader.classList.add('fade-out');
-      setTimeout(() => loader.remove(), 550);
-    }
-
-    fetch('games.json')
-      .then(r => r.json())
-      .then(d => {
-        const games = d.games ? shuffle([...d.games]) : [];
-        loadGamesWithProgress(games);
-      })
-      .catch(() => {
-        document.getElementById('games-grid').innerHTML = `<div class="err">Run update_games.py first.</div>`;
-        hideLoader();
-      });
   </script>
 </body>
 
